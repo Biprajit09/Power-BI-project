@@ -1,10 +1,10 @@
 # 📊 Power BI Dashboard: E-Commerce Analytics
 
-This project demonstrates my ability to analyze and visualize e-commerce data using Power BI. The dashboard provides insights into product performance, seller activity, payment methods, and customer reviews.
+This project demonstrates my ability to analyze and visualize e-commerce data using Power BI. The dashboard provides insights into product performance, seller activity, payment methods, and customer reviews, along with advanced interactive features such as bookmarks, drillthrough buttons, and DAX measures.
 
 ## 🔍 **Project Overview**
 
-The dashboard showcases the following key visualizations:
+The dashboard includes the following key visualizations and features:
 - 📈 **Top 10 Product Categories**: Displays the highest-performing product categories by sales.
 - 📉 **Bottom 18 Product Categories**: Shows the least-performing product categories.
 - 🛍️ **Active Sellers Over the Year**: Visualizes the trend of active sellers over the year.
@@ -14,37 +14,28 @@ The dashboard showcases the following key visualizations:
 
 ## 🖼️ **Dashboard Preview**
 
-Below is a snapshot of the Power BI dashboard, capturing all the visual elements:
+Below is a snapshot of the Power BI dashboard:
 
 ![Dashboard Overview](./Screenshot/dashboard.png)
 
+## 🔍 **Key Insights**
 
+- **Top 10 Product Categories**: Displays the highest-performing product categories by sales.
+- **Bottom 18 Product Categories**: Shows the least-performing product categories.
+- **Active Sellers Over the Year**: Visualizes the trend of active sellers over the year.
+- **Active Sellers by City**: A breakdown of active sellers across different cities.
+- **Most Common Payment Methods**: Highlights the payment methods most frequently used by customers.
+- **Review Distribution**: Shows the distribution of customer reviews across different products.
 
-### 1. **Top 10 Product Categories**
-   - Visualizing the top-performing product categories.
+## 🔑 **Key Features**
 
-### 2. **Bottom 18 Product Categories**
-   - Provides insights into the least popular categories.
-
-### 3. **Active Sellers Over the Year**
-   - Trends of seller activity throughout the year.
-
-### 4. **Active Sellers by City**
-   - Breakdown of where sellers are most active geographically.
-
-### 5. **Most Common Payment Methods**
-   - Overview of the preferred payment methods used by customers.
-
-### 6. **Review Distribution**
-   - Analyzing customer feedback and satisfaction through review ratings.
+- **Bookmarks**: Used for navigating between different views of the dashboard, allowing for a cleaner user interface and focused storytelling.
+- **Drillthrough Buttons**: Provide detailed insights into specific product categories and seller activities by allowing users to explore individual items in more depth.
+- **DAX Measures**: Custom DAX calculations are used to compute key metrics such as total sales, average ratings, and seller activity, ensuring accurate and dynamic reporting.
 
 ## 📂 **Project Files**
-- `Ecommerce_Analytics.pbix`: The Power BI project file containing all the visualizations and insights.
-- `screenshots/`: Folder containing the dashboard screenshot.
+- `screenshot/`: Folder containing the dashboard screenshot.
 
-## 🚀 **Key Features**
-- **Interactive Visuals**: Slicers and filters for dynamic data exploration.
-- **Custom Measures**: Calculations such as total sales, active sellers, and review averages.
-- **Visual Optimization**: Use of Power BI's built-in visuals to create meaningful insights.
+
 
 

@@ -16,7 +16,7 @@ The dashboard showcases the following key visualizations:
 
 Below is a snapshot of the Power BI dashboard, capturing all the visual elements:
 
-![Dashboard Overview](./screenshot/dashboard.png)
+![Dashboard Overview](./Screenshot/dashboard.png)
 
 
 

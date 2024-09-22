@@ -16,7 +16,8 @@ The dashboard showcases the following key visualizations:
 
 Below is a snapshot of the Power BI dashboard, capturing all the visual elements:
 
-![Dashboard Overview](./screenshots/dashboard.png)
+![Dashboard Overview](./screenshot/dashboard.png)
+
 
 
 ### 1. **Top 10 Product Categories**
